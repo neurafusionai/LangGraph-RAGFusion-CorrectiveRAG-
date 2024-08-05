@@ -1,0 +1,10 @@
+Langchain
+langchain_openai
+chromadb
+pypdf
+streamlit
+pandas
+langchain_community
+langchain_experimental
+langgraph
+tavily-python
